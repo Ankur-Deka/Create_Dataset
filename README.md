@@ -1,5 +1,6 @@
 # Create_Dataset
-Generic Module for Creating Image Dataset\n
+Generic Module for Creating Image Dataset
+
 Can split  given image into smaller images and perform data augmentation
 
 Supports:
