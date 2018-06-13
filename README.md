@@ -10,6 +10,7 @@ Input:
 2) Input image format
 3) Output Image format
 4) Required output image size
+5) Number of output images after augmentation
 
 Output:
 1) Splitted images
