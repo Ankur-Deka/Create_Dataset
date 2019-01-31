@@ -1,6 +1,9 @@
 # Create_Dataset
 Generic Module for Creating Image Dataset. Can split  given images into smaller images and/or perform data augmentation.
 
+Requirements:
+1) Augmentor: pip install Augmentor
+
 Supports:
 1) Gray Scale Images
 2) Data augmentation
